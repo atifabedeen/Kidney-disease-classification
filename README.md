@@ -1,5 +1,5 @@
 # Kidney-disease-classification
-
+### An Application where the user can upload an image of a Kidney CT-Scan and the underlying DNN model (VGG-16) will predict if the kidney has a tumor or not. 
 ## Workflows
 
 1. Update config.yaml
