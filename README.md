@@ -168,3 +168,4 @@ follow the steps below.
     ECR_REPOSITORY_NAME
 
 	And you're good to go!!
+ *Project adapted and reproduced from Krish Naik Github Repo*
